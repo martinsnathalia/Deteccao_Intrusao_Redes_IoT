@@ -12,6 +12,17 @@ O crescimento das redes IoT (Internet of Things) fez com que elas se tornassem a
 98,8% e recall de 99,5%, e a contribuicão de atributos na classificacão por meio do SHAP.
 
 
+<h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/389789b1-b3a7-4094-b7cf-f2525e50c47c" /> Conteúdo do Projeto </h1>
+
+O conteúdo disponibilizado no GitHub consiste no código utilizado para a construção e validação do pipeline proposto, além das referências utilizadas para o estudo e desenvolvimento do presente projeto. Os dados brutos não puderam ser disponibilizados pelo seu tamanho exceder ao limite da plataforma, porém, pode ser obtido através do site [Stratosphere](https://www.stratosphereips.org/datasets-iot23), no qual é disponibilizado em duas versões, uma sendo de 21 GB e outra de 8,8 GB. Para o projeto, foi utilizado a versão menor que é composta por dados rotulados.
+ 
+- code: é a pasta com os códigos utilizados no projeto. Dentro da pasta, tem-se os seguintes arquivos:
+  -  Dataset.ipynb: código utilizado para extrair e coletar dados das capturas disponibilzadas, gerando um único arquivo .csv para as próximas etapas.
+  -  CatBoost.ipynb: consiste no pré-processamento e implementação do algoritmo CatBoost para a base gerada. Nela também é possível verificar as métricas, a Matriz de Confusão e a interpretabilidade do modelo através do SHAP.
+  -  Random Forest.ipynb: consiste no pré-processamento e implementação do algoritmo Random Forest com as métricas obtidas, Matriz de Confusão e SHAP.
+  -  Árvore de Decisão.ipynb: segue o mesmo padrão dos anteriores, porém a implementação é para o algoritmo Árvore de Decisão.
+
+- references: é a pasta que contém as referências que foram utilizadas para o estudo e execução do projeto apresentado.
 
 
 
