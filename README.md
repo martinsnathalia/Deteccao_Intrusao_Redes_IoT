@@ -24,8 +24,10 @@ O conteúdo disponibilizado no GitHub consiste no código utilizado para a const
 
 - references: é a pasta que contém as referências que foram utilizadas para o estudo e execução do projeto apresentado.
 
-
-
-
+<h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/e47ad0e4-3537-4b9c-ba8e-431c370028bb" /> Equipe do Projeto </h1>
+ 
+|  **Lucelia Lima**  |   **Nathália Martins**   |  **Lorena Medeiros**  |
+| ---------------- | ---------------------- | ------------------- |
+| <a href="https://www.linkedin.com/in/lucelialima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  | <a href="https://www.linkedin.com/in/nathaliamartinss" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
 
 
