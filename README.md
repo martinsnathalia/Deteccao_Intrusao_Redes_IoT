@@ -24,7 +24,9 @@ O conteúdo disponibilizado no GitHub consiste no código utilizado para a const
 
 - references: é a pasta que contém as referências que foram utilizadas para o estudo e execução do projeto apresentado.
 
-- requirements.txt: arquivo que contém os requisitos necessários para rodar os códigos do projeto. 
+- requirements.txt: arquivo que contém os requisitos necessários para rodar os códigos do projeto.
+
+- paper: pasta que contém o arquivo em pdf com todo o trabalho desenvolvido para o projeto de conclusão de curso.
 
 <h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/6f64d29c-8e45-452e-9721-5e2907da6d4c" /> Bibliotecas </h1>
 
