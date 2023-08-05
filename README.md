@@ -24,6 +24,20 @@ O conteúdo disponibilizado no GitHub consiste no código utilizado para a const
 
 - references: é a pasta que contém as referências que foram utilizadas para o estudo e execução do projeto apresentado.
 
+- requirements.txt: arquivo que contém os requisitos necessários para rodar os códigos do projeto. 
+
+<h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/6f64d29c-8e45-452e-9721-5e2907da6d4c" /> Bibliotecas </h1>
+
+- Pandas
+- Numpy
+- Warnings
+- Sklearn
+- Seaborn
+- Matplotlib
+- SHAP
+- CatBoost
+- Imblearn (Imbalanced-learn)
+
 <h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/e47ad0e4-3537-4b9c-ba8e-431c370028bb" /> Equipe do Projeto </h1>
  
 |  **Lucelia Lima**  |   **Nathália Martins**   |  **Lorena Medeiros**  |
