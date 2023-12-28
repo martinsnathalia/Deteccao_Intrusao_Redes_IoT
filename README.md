@@ -40,31 +40,13 @@ O conteúdo disponibilizado no GitHub consiste no código utilizado para a const
 
 <h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/f681bf09-f8dd-461c-9216-ab741851a6b3" /> Setup </h1>
 
-Para executar o projeto, basta baixar o repositório, criar um ambiente virtual e instalar as bibliotecas que estão contidas no arquivo requirements.txt, através do seguinte comando: pip install -r requirements.txt
-
-No VSCode, pode ser feito da seguinte maneira:
-
-1 - Criar um ambiente virtual através do:
-- atalho: Ctrl + Shift + P
-- ou acessando a aba "Ver" e selecionar "Paleta de Comandos"
-- ![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/c790088c-1d63-4355-b556-6426fd29713f)
-
-2 - Criar o ambiente virtual selecionando: Criar Ambiente...
-![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/fa29b37f-173a-4f20-8ee9-070779418c8f)
-
-3 - Selecionar o ambiente virtual a ser criado, como o Venv a seguir:
-![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/8bb6024e-0efb-46bc-8a8a-20c129f06427)
-
-4 - Selecionar o caminho do Python instalado em seu computador:
-![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/aca93512-68fe-436c-9861-499d85973327)
-
-5 - Por fim, selecionar o arquivo "requirements.txt" como dependência do ambientevirutal a ser instalado:
-![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/6d4f13a4-4f19-45c2-9cbe-c7e99aa7d77f)
-
-Dessa forma, é possível conferir a instalação do ambiente virtual através do Explorador no VSCode:
-![image](https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/3c3973f8-ca20-417c-ab39-e8480048a120)
-
-Uma vez constatado o ambiente virtual, basta executar os notebooks disponibilizados.
+Para executar o projeto, basta:
+1. Baixar o repositório;
+2. Criar um ambiente virtual;
+3. Instalar as bibliotecas contidas no arquivo requirements.txt, através do seguinte comando: 
+```
+pip install -r requirements.txt
+```
 
 <h1> <img height="40" width="40" src= "https://github.com/Projeto-UFC-SiDi/projeto-ufc-sidi/assets/89808695/e47ad0e4-3537-4b9c-ba8e-431c370028bb" /> Equipe do Projeto </h1>
  
